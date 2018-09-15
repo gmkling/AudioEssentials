@@ -4,10 +4,19 @@ Audio Essentials: Introduction
 In this repository, I have assembled a selection of audio programming examples, in the form of open-source projects that represent the past 25 years (or even more) in the development of audio software. These projects fall into the following categories:
 
 1. Audio Files
+    a. libsndfile
 2. Audio Device Interfaces
+	a. Portaudio
+	b. ASIO
 3. Oscillators and Filters
+    a.
+    b.
 4. Audio Analysis Tools
+    a. FFTW
+    b. Sonic Visualizer?
 4. Effect Plug-ins
+    a. VST
+    b. AU
 5. Sequencers
 6. Audio Editors
 7. Synthesis Engines
