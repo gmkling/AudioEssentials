@@ -1,0 +1,16 @@
+Audio Essentials: Introduction
+--
+
+In this repository, I have assembled a selection of audio programming examples, in the form of open-source projects that represent the past 25 years (or even more) in the development of audio software. These projects fall into the following categories:
+
+1. Audio Files
+2. Audio Device Interfaces
+3. Oscillators and Filters
+4. Audio Analysis Tools
+4. Effect Plug-ins
+5. Sequencers
+6. Audio Editors
+7. Synthesis Engines
+8. Game Engines
+
+I'll initially collect repositories that interest me as submodules. Then, as I study them, I will add my notes.
