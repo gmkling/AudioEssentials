@@ -4,3 +4,6 @@
 [submodule "libsndfile"]
 	path = libsndfile
 	url = https://github.com/erikd/libsndfile.git
+[submodule "libsamplerate"]
+	path = libsamplerate
+	url = https://github.com/erikd/libsamplerate.git
